@@ -1,1 +1,2 @@
-learing shell
+#!/bin/bash
+/
